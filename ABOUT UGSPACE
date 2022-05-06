@@ -1,0 +1,9 @@
+# UGSPACE
+This software provides a space for publishing of reports,  articles, and projects of students by the admin.
+It allows a user to signup with details to this software and use those deatils to login to the the dashboard of the software. 
+There, he is able to view reports, articles, journals etc which has been published by the department or lecturer.
+Students can only view and download posted papers.
+Lecturers or other administrators also signup with a superuser (username and pad=ssword) which will grant them access to the admin page.
+There he can upload, edit, or delete the author, title or the article it self.
+Details of lecturers also can grant them access to the admin Dashboard. There they would be able to see the views as students see.
+They can also view, download, upload papers from the admin Dashboard.
